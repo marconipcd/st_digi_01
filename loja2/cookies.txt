@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+loja.digitalonline.com.br	TRUE	/	FALSE	1999999999	sessionid	7icoupjpw5rgpw624rktwwtlpaf6r0si
+

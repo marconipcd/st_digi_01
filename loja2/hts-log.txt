@@ -1,0 +1,275 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 May 2021 15:02:45 at https://loja.digitalonline.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://loja.digitalonline.com.br/ -O1 "C:\Meus Sites\loja-digital\loja digital" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:11:14	Warning: 	FOUND for https://loja.digitalonline.com.br/newsletter/assinar/
+15:11:14	Warning: 	File has moved from https://loja.digitalonline.com.br/newsletter/assinar/ to http://loja.digitalonline.com.br/
+15:11:15	Error: 	"Not Found" (404) at link https://loja.digitalonline.com.br/carrinho/jquery.php (from https://loja.digitalonline.com.br/carrinho/index)
+15:11:15	Error: 	"Not Found" (404) at link https://loja.digitalonline.com.br/jquery.php (from https://loja.digitalonline.com.br/carrinho/index)
+15:11:15	Error: 	"NOT FOUND" (404) at link https://loja.digitalonline.com.br/carrinho/performa.ai (from https://loja.digitalonline.com.br/carrinho/index)
+15:13:56	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/45628013/assinar/
+15:13:56	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/45628013/assinar/ to http://loja.digitalonline.com.br/suporte-p-cpu-ajustavel-c-rodizios-multilaser-ac019
+15:13:58	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46664376/assinar/
+15:13:58	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46664376/assinar/ to http://loja.digitalonline.com.br/carregador-portatil-usb-power-bank-10000mah-2-usb-multilaser-cb112
+15:14:01	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46468824/assinar/
+15:14:01	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46468824/assinar/ to http://loja.digitalonline.com.br/bracadeira-p-smartphone-4-6p-rotacap-180-multilaser-es180
+15:14:04	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46370466/assinar/
+15:14:04	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46370466/assinar/ to http://loja.digitalonline.com.br/maleta-p-note-feminina-roxa-multilaser-bo026
+15:14:06	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46152333/assinar/
+15:14:06	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46152333/assinar/ to http://loja.digitalonline.com.br/suporte-de-colo-p-note-almofadado-c-led-multilaser-ac162
+15:14:08	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47615797/assinar/
+15:14:08	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47615797/assinar/ to http://loja.digitalonline.com.br/pochete-sport-fit-prlr-oex-po200
+15:14:11	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46153764/assinar/
+15:14:11	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46153764/assinar/ to http://loja.digitalonline.com.br/suporte-p-note-156-pol-sound-cooler-multilaser-ac171
+15:14:13	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46714616/assinar/
+15:14:13	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46714616/assinar/ to http://loja.digitalonline.com.br/mochila-backpack-iron-oex-game-bk103
+15:16:03	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/53822270/assinar/
+15:16:03	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/53822270/assinar/ to http://loja.digitalonline.com.br/hd-interno-120gb-ssd-sataiii-pny
+15:16:16	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46217057/assinar/
+15:16:16	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46217057/assinar/ to http://loja.digitalonline.com.br/pen-drive-kit-16gb-dual-otg-mais-adapt-sd-classe10-multilaser-mc131
+15:16:20	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46216410/assinar/
+15:16:20	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46216410/assinar/ to http://loja.digitalonline.com.br/placa-de-video-pci-e-2gb-core-radeon-power-color-ddr3-axr7-r7-240
+15:16:24	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/45628203/assinar/
+15:16:24	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/45628203/assinar/ to http://loja.digitalonline.com.br/suporte-p-tv-led-lcd-32-50pol-multilaser-ac261
+15:16:33	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47611713/assinar/
+15:16:33	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47611713/assinar/ to http://loja.digitalonline.com.br/estabilizador-no-break-maxxpower-bi115-700va-bmi-mcm
+15:16:40	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46216387/assinar/
+15:16:40	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46216387/assinar/ to http://loja.digitalonline.com.br/protetor-contra-surto-eletrico-dps-tomada-clamper-pocket
+15:16:45	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/61288120/assinar/
+15:16:45	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/61288120/assinar/ to http://loja.digitalonline.com.br/caixa-de-som-5w-rms-speaker-pouch-pr-oex-sk408
+15:16:49	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46216673/assinar/
+15:16:49	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46216673/assinar/ to http://loja.digitalonline.com.br/pilha-para-placamae-3v-cr2032-flex-unidade
+15:16:52	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46870798/assinar/
+15:16:52	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46870798/assinar/ to http://loja.digitalonline.com.br/computador-multilaser-intel-core-i3-37ghz-hd-1tb-4gb-mouse-teclado-e-caixa-de-som-dt021
+15:16:54	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46215779/assinar/
+15:16:54	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46215779/assinar/ to http://loja.digitalonline.com.br/protetor-eletronico-4-tomadas-preto-bright-p0243
+15:16:59	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46467398/assinar/
+15:16:59	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46467398/assinar/ to http://loja.digitalonline.com.br/aparelho-telefone-sem-fio-pt-intelbras-ts40
+15:17:03	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/61348593/assinar/
+15:17:03	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/61348593/assinar/ to http://loja.digitalonline.com.br/notebook-intel-core-i3-4gb-hd1tb-lenovo-330-151kb
+15:17:06	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/38586344/assinar/
+15:17:06	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/38586344/assinar/ to http://loja.digitalonline.com.br/filtro-de-linha-5-tomadas-preto-bmi
+15:18:35	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/55717570/assinar/
+15:18:35	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/55717570/assinar/ to http://loja.digitalonline.com.br/cadeira-giratoria-executiva-grafite-cavaletti-sre-4103
+15:18:38	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46561393/assinar/
+15:18:38	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46561393/assinar/ to http://loja.digitalonline.com.br/cadeira-giratoria-executiva-azul-marinho-cavaletti-sre-4103
+15:18:41	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/58560672/assinar/
+15:18:41	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/58560672/assinar/ to http://loja.digitalonline.com.br/aparelho-telefone-headset-intelbras-hsb50
+15:18:43	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/61395838/assinar/
+15:18:43	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/61395838/assinar/ to http://loja.digitalonline.com.br/cartucho-hp28cl-c8728ab-serie-3000
+15:18:49	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47236022/assinar/
+15:18:49	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47236022/assinar/ to http://loja.digitalonline.com.br/impressora-hp-laser-mono-m15w-110w
+15:18:51	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/59389969/assinar/
+15:18:51	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/59389969/assinar/ to http://loja.digitalonline.com.br/formulario-continuo-80-col-2vias-1500fls-agaprint
+15:18:54	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/56865080/assinar/
+15:18:54	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/56865080/assinar/ to http://loja.digitalonline.com.br/impressora-usb-elgin-nao-fiscal-i7-c-serrilha-preta
+15:18:57	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46632531/assinar/
+15:18:57	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46632531/assinar/ to http://loja.digitalonline.com.br/cadeira-giratoria-nylon-pistache-cavaletti-flip-43103
+15:18:59	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46640493/assinar/
+15:18:59	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46640493/assinar/ to http://loja.digitalonline.com.br/cadeira-giratoria-presidente-preto-cavaletti-velo-42101
+15:19:02	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47234735/assinar/
+15:19:02	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47234735/assinar/ to http://loja.digitalonline.com.br/gaveta-aco-c-chave-preto-elgin-eg-60b
+15:19:04	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46640421/assinar/
+15:19:04	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46640421/assinar/ to http://loja.digitalonline.com.br/cadeira-giratoria-presidente-amarela-cavaletti-velo-42101
+15:19:07	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46216431/assinar/
+15:19:07	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46216431/assinar/ to http://loja.digitalonline.com.br/pilha-recarregavel-pal-c2-aaa-1000ma-multilaser-cb051
+15:19:10	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46370819/assinar/
+15:19:10	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46370819/assinar/ to http://loja.digitalonline.com.br/leitor-e-gravador-de-cartao-smartcard-comtac-9202
+15:19:13	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46470955/assinar/
+15:19:13	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46470955/assinar/ to http://loja.digitalonline.com.br/cadeira-fixa-uf-amarelo-cavaletti-joy-am-41008
+15:19:15	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46471658/assinar/
+15:19:15	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46471658/assinar/ to http://loja.digitalonline.com.br/cadeira-fixa-uf-areia-cavaletti-joy-ar-41008
+15:19:17	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46562154/assinar/
+15:19:17	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46562154/assinar/ to http://loja.digitalonline.com.br/cadeira-giratoria-nylon-crea-amarelo-real-cavaletti-flip-43103-1031
+15:19:20	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46562050/assinar/
+15:19:20	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46562050/assinar/ to http://loja.digitalonline.com.br/cadeira-giratoria-executiva-preto-cavaletti-sre-4103
+15:19:23	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46488494/assinar/
+15:19:23	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46488494/assinar/ to http://loja.digitalonline.com.br/cadeira-fixa-uf-telha-cavaletti-joy-tl-41008
+15:19:45	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46152345/assinar/
+15:19:45	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46152345/assinar/ to http://loja.digitalonline.com.br/soft-jogo-revista-fullgames
+15:20:59	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46150227/assinar/
+15:20:59	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46150227/assinar/ to http://loja.digitalonline.com.br/switch-24-portas-10100-para-rack-intelbras-sf2842mr
+15:21:01	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46215083/assinar/
+15:21:01	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46215083/assinar/ to http://loja.digitalonline.com.br/roteador-wifi-access-point-intelbras-ap360
+15:21:04	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46215272/assinar/
+15:21:04	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46215272/assinar/ to http://loja.digitalonline.com.br/roteador-wifi-access-point-corporativo-intelbras-ap1210-ac
+15:21:06	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46214753/assinar/
+15:21:06	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46214753/assinar/ to http://loja.digitalonline.com.br/roteador-wifi-tp-link-150m-tl-wr720n
+15:21:09	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46214781/assinar/
+15:21:09	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46214781/assinar/ to http://loja.digitalonline.com.br/roteador-wifi-linkone-rw131
+15:21:12	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46215291/assinar/
+15:21:12	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46215291/assinar/ to http://loja.digitalonline.com.br/roteador-wifi-150m-intelbras-wrn240-slim
+15:21:14	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46214828/assinar/
+15:21:14	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46214828/assinar/ to http://loja.digitalonline.com.br/roteador-wifi-intelbras-dual-band-r1200-2020-01-02-09-57-08
+15:21:16	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46149913/assinar/
+15:21:16	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46149913/assinar/ to http://loja.digitalonline.com.br/produto/switch-8-portas-10100-d-link-1008c.html
+15:21:19	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/38537273/assinar/
+15:21:19	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/38537273/assinar/ to http://loja.digitalonline.com.br/roteador-wifi-intelbras-dual-band-r1200
+15:22:11	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/57858147/assinar/
+15:22:11	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/57858147/assinar/ to http://loja.digitalonline.com.br/aspirador-de-po-automotivo-multilaser-au600
+15:22:15	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/59901248/assinar/
+15:22:15	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/59901248/assinar/ to http://loja.digitalonline.com.br/gabinete-torre-warrior-kanza-gamer-multilaser-ga154
+15:22:19	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46370650/assinar/
+15:22:19	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46370650/assinar/ to http://loja.digitalonline.com.br/luminaria-led-light-usb-preta-newlink-li200
+15:22:22	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/57200880/assinar/
+15:22:22	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/57200880/assinar/ to http://loja.digitalonline.com.br/luminaria-led-light-usb-preta-multilaser-ac272
+15:22:25	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47236304/assinar/
+15:22:25	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47236304/assinar/ to http://loja.digitalonline.com.br/luminaria-mata-insetos-multilaser-hc033
+15:22:28	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46215624/assinar/
+15:22:28	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46215624/assinar/ to http://loja.digitalonline.com.br/regua-para-rack-8-tomadas-10a-r19-8t-10
+15:22:30	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47233873/assinar/
+15:22:30	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47233873/assinar/ to http://loja.digitalonline.com.br/fonte-atx-400w-real-multilaser-ga400
+15:22:33	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46466395/assinar/
+15:22:33	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46466395/assinar/ to http://loja.digitalonline.com.br/adaptador-para-espelhamento-de-tela-smart-usb-conexao-hdmi-multilaser-dg001
+15:25:25	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46098886/assinar/
+15:25:25	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46098886/assinar/ to http://loja.digitalonline.com.br/teclado-usb-multimidia-slim-preto-multilaser-tc128
+15:25:28	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46269231/assinar/
+15:25:28	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46269231/assinar/ to http://loja.digitalonline.com.br/mouse-optico-usb-classic-vermelho-multilaser-mo003
+15:25:30	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46236967/assinar/
+15:25:30	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46236967/assinar/ to http://loja.digitalonline.com.br/mouse-usb-emborrachado-preto-multilaser-mo222
+15:25:32	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/55259171/assinar/
+15:25:32	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/55259171/assinar/ to http://loja.digitalonline.com.br/teclado-usb-preto-600-microsoft-anb00005
+15:25:36	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46155541/assinar/
+15:25:36	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46155541/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-headset-energy-verde-newlink-hs112
+15:25:41	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/58342425/assinar/
+15:25:41	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/58342425/assinar/ to http://loja.digitalonline.com.br/caixa-de-som-portatil-15w-rms-preta-iphone-multilaser-sp125
+15:25:44	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/61349803/assinar/
+15:25:44	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/61349803/assinar/ to http://loja.digitalonline.com.br/caixa-de-som-21-subwoofer-power-song-oex-sp202
+15:25:46	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47326419/assinar/
+15:25:46	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47326419/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-sport-phone-bluetooth-multilaser-ph097
+15:25:53	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46647788/assinar/
+15:25:53	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46647788/assinar/ to http://loja.digitalonline.com.br/caixa-de-som-21-50w-rms-gamer-odysseus-multilaser-sp266
+15:25:56	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47011425/assinar/
+15:25:56	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47011425/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-headset-fyber-czverm-trust-t20073
+15:25:59	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47378546/assinar/
+15:25:59	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47378546/assinar/ to http://loja.digitalonline.com.br/mouse-s-fio-usb-24ghz-azul-logitech-m535
+15:26:02	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46365715/assinar/
+15:26:02	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46365715/assinar/ to http://loja.digitalonline.com.br/mouse-mini-usb-retratil-shiny-preto-oex-mo208c
+15:26:04	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46364358/assinar/
+15:26:04	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46364358/assinar/ to http://loja.digitalonline.com.br/mouse-mini-usb-retratil-shiny-vermelho-oex-mo210c
+15:26:07	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47010946/assinar/
+15:26:07	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47010946/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-headset-flow-preto-oex-hs207
+15:26:10	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47330319/assinar/
+15:26:10	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47330319/assinar/ to http://loja.digitalonline.com.br/mouse-optico-classic-ps2-preto-multilaser-mo031
+15:26:12	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/45608328/assinar/
+15:26:12	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/45608328/assinar/ to http://loja.digitalonline.com.br/teclado-usb-red-shot-oex-tc202
+15:27:32	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46153183/assinar/
+15:27:32	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46153183/assinar/ to http://loja.digitalonline.com.br/skin-adesivo-p-note-225x163-clone-17016
+15:27:38	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46150326/assinar/
+15:27:38	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46150326/assinar/ to http://loja.digitalonline.com.br/suporte-para-iphone-4-preto-clone-18053
+15:27:43	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/45628161/assinar/
+15:27:43	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/45628161/assinar/ to http://loja.digitalonline.com.br/suporte-p-note-com-led-e-superficie-metal-multilaser-ac123
+15:27:48	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47378374/assinar/
+15:27:48	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47378374/assinar/ to http://loja.digitalonline.com.br/mouse-pad-tecido-slin-multilaser-ac066
+15:27:55	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46152034/assinar/
+15:27:55	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46152034/assinar/ to http://loja.digitalonline.com.br/suporte-e-base-para-recarga-iphone4-branca-clone-18056
+15:27:57	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46152551/assinar/
+15:27:57	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46152551/assinar/ to http://loja.digitalonline.com.br/skin-para-notebook-156pol-c3-sn-1003
+15:28:00	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46715187/assinar/
+15:28:00	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46715187/assinar/ to http://loja.digitalonline.com.br/case-p-note-141-fit-square-praz-newlink-sl205
+15:28:01	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46470036/assinar/
+15:28:01	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46470036/assinar/ to http://loja.digitalonline.com.br/produto/cabo-hdmi-x-hdmi-2m-gold-4k-ultrahd-15psantana-0180214.html
+15:28:04	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46469546/assinar/
+15:28:04	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46469546/assinar/ to http://loja.digitalonline.com.br/cabo-hdmi-x-hdmi-2m-gold-4k-hdr-19psantana-0183322
+15:28:06	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46469188/assinar/
+15:28:06	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46469188/assinar/ to http://loja.digitalonline.com.br/cabo-hdmi-x-hdmi-2m-flat-gold-20-4k-hdr-90-graus-19psantana-0185092
+15:28:07	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47234623/assinar/
+15:28:07	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47234623/assinar/ to http://loja.digitalonline.com.br/produto/fonte-carregador-para-notebook-195v-462a-samsung-santana-0443042.html
+15:28:11	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46469398/assinar/
+15:28:11	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46469398/assinar/ to http://loja.digitalonline.com.br/cabo-hdmi-x-hdmi-2m-gamer-4k-19p-90graussantana-0180120
+15:28:14	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46470383/assinar/
+15:28:14	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46470383/assinar/ to http://loja.digitalonline.com.br/cabo-usb-type-c-1m-smartogo-multilaser-wi363
+15:28:16	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46237251/assinar/
+15:28:16	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46237251/assinar/ to http://loja.digitalonline.com.br/mouse-pad-pvc-slin-multilaser-ac067
+15:28:19	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46153113/assinar/
+15:28:19	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46153113/assinar/ to http://loja.digitalonline.com.br/skin-adesivo-p-note-225x163-clone-17028
+15:28:21	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46470251/assinar/
+15:28:21	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46470251/assinar/ to http://loja.digitalonline.com.br/cabo-usb-lightning-para-iphone-5-5c-5s-6-6s-6plus-color-newlink-ds103cs200
+15:28:24	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46716569/assinar/
+15:28:24	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46716569/assinar/ to http://loja.digitalonline.com.br/case-p-note-14-neopreme-preto-e-cinza-multilaser-bo207
+15:28:26	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46716592/assinar/
+15:28:26	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46716592/assinar/ to http://loja.digitalonline.com.br/case-p-note-141-preto-newlink-sl201
+15:28:28	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47234361/assinar/
+15:28:28	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47234361/assinar/ to http://loja.digitalonline.com.br/fonte-carregador-para-notebook-195v-462a-dell-santana-0443030
+15:28:32	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46716476/assinar/
+15:28:32	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46716476/assinar/ to http://loja.digitalonline.com.br/case-p-note-10p-neopreme-rosa-com-preto-multilaser-bo140
+15:29:05	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46097063/assinar/
+15:29:05	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46097063/assinar/ to http://loja.digitalonline.com.br/teclado-usb-slin-pretoprata-multilaser-tc067
+15:29:07	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47226015/assinar/
+15:29:07	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47226015/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-headset-preto-microsoft-jug00013
+15:29:10	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47376221/assinar/
+15:29:10	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47376221/assinar/ to http://loja.digitalonline.com.br/mouse-optico-usb-compact-preto-microsoft-u8100010
+15:29:13	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46873550/assinar/
+15:29:13	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46873550/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-headphone-premium-btsdfm-pretomultilaser-ph264
+15:29:15	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47462390/assinar/
+15:29:15	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47462390/assinar/ to http://loja.digitalonline.com.br/mouse-s-fio-usb-24ghz-pocket-prbr-newlink-mo225
+15:29:18	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46925438/assinar/
+15:29:18	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46925438/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-headset-cosmic-branco-oex-hs208
+15:29:21	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47462119/assinar/
+15:29:21	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47462119/assinar/ to http://loja.digitalonline.com.br/mouse-s-fio-usb-24ghz-experience-coat-cinzaazul-oex-ms405
+15:29:23	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47619743/assinar/
+15:29:23	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47619743/assinar/ to http://loja.digitalonline.com.br/teclado-mouse-wireless-24ghz-multimidia-combo-preto-oex-tm410
+15:29:26	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/53822224/assinar/
+15:29:26	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/53822224/assinar/ to http://loja.digitalonline.com.br/teclado-mouse-wireless-24ghz-multimidia-combo-branco-oex-tm410
+15:29:28	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47462437/assinar/
+15:29:28	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47462437/assinar/ to http://loja.digitalonline.com.br/mouse-s-fio-usb-24ghz-pocket-preto-newlink-mo225
+15:29:31	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47378592/assinar/
+15:29:31	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47378592/assinar/ to http://loja.digitalonline.com.br/mouse-s-fio-usb-24ghz-beetle-cz-newlink-mo226
+15:29:33	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47375977/assinar/
+15:29:33	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47375977/assinar/ to http://loja.digitalonline.com.br/mouse-optico-usb-branco-logitech-m105
+15:29:39	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47612195/assinar/
+15:29:39	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47612195/assinar/ to http://loja.digitalonline.com.br/teclado-mouse-usb-mouse-pad-fone-gamer-cfio-preto-trust-t22428
+15:29:47	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46269199/assinar/
+15:29:47	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46269199/assinar/ to http://loja.digitalonline.com.br/mouse-optico-usb-prvm-oex-ms103
+15:29:50	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/45608316/assinar/
+15:29:50	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/45608316/assinar/ to http://loja.digitalonline.com.br/teclado-usb-multimidia-destroyer-oex-tc299
+15:29:56	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46216986/assinar/
+15:29:56	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46216986/assinar/ to http://loja.digitalonline.com.br/mouse-usb-gamer-robotic-branco-oex-ms308
+15:29:59	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46365731/assinar/
+15:29:59	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46365731/assinar/ to http://loja.digitalonline.com.br/mouse-mini-usb-retratil-preto-oex-ms201
+15:30:02	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46098995/assinar/
+15:30:02	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46098995/assinar/ to http://loja.digitalonline.com.br/teclado-usb-basico-slim-preto-multilaser-tc204
+15:30:06	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47162576/assinar/
+15:30:06	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47162576/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-headset-gamer-action-c-microfone-preto-oex-hs206
+15:30:07	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46236932/assinar/
+15:30:07	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46236932/assinar/ to http://loja.digitalonline.com.br/produto/mouse-usb-gamer-gaming-ampreto-bright-m0375.html
+15:30:09	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46365725/assinar/
+15:30:09	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46365725/assinar/ to http://loja.digitalonline.com.br/mouse-mini-usb-retratil-rsbr-oex-ms201
+15:30:12	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46365755/assinar/
+15:30:12	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46365755/assinar/ to http://loja.digitalonline.com.br/mouse-colors-slim-usb-pink-multilaser-mo167
+15:30:15	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46269258/assinar/
+15:30:15	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46269258/assinar/ to http://loja.digitalonline.com.br/mouse-optico-usb-carve-trust-t15862
+15:30:17	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46150313/assinar/
+15:30:17	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46150313/assinar/ to http://loja.digitalonline.com.br/teclado-e-mouse-usb-multimidia-gear-gamer-oex-tm301
+15:30:20	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/53822380/assinar/
+15:30:20	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/53822380/assinar/ to http://loja.digitalonline.com.br/teclado-gamer-usb-warrior-wyot-mecanico-led-rgb-multilaser-tc216
+15:30:23	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47376060/assinar/
+15:30:23	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47376060/assinar/ to http://loja.digitalonline.com.br/mouse-optico-usb-carve-preto-trust-t15862
+15:30:25	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46099171/assinar/
+15:30:25	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46099171/assinar/ to http://loja.digitalonline.com.br/teclado-gamer-usb-ziva-trust-t22413
+15:30:28	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46925224/assinar/
+15:30:28	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46925224/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-headset-cosmic-branco-bluetooth-oex-hs309
+15:30:30	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/47240173/assinar/
+15:30:30	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/47240173/assinar/ to http://loja.digitalonline.com.br/mouse-mini-usb-fit-preto-newlink-mo303c
+15:30:33	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46237153/assinar/
+15:30:33	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46237153/assinar/ to http://loja.digitalonline.com.br/mouse-usb-colors-magenta-multilaser-mo143
+15:30:39	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46923740/assinar/
+15:30:39	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46923740/assinar/ to http://loja.digitalonline.com.br/fone-de-ouvido-headset-balance-czchumbo-com-ent-micro-sd-oex-hs301
+15:30:45	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46269043/assinar/
+15:30:45	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46269043/assinar/ to http://loja.digitalonline.com.br/mouse-optico-usb-transpazul-multilaser-mo001
+15:30:48	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46217263/assinar/
+15:30:48	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46217263/assinar/ to http://loja.digitalonline.com.br/mouse-usb-gamer-profiss-laser-8-bt-preto-multilaser-mo191
+15:30:51	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46663417/assinar/
+15:30:51	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46663417/assinar/ to http://loja.digitalonline.com.br/carregador-automotivo-color-azul-oex-cg101
+15:30:56	Warning: 	MOVED PERMANENTLY for https://loja.digitalonline.com.br/espera/produto/46647887/assinar/
+15:30:56	Warning: 	File has moved from https://loja.digitalonline.com.br/espera/produto/46647887/assinar/ to http://loja.digitalonline.com.br/caixa-de-som-portatil-multimidia-brcz-logitech-z51
+15:30:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/lens.png (from https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/imagezoom.min.css)
+15:36:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/lens.png (from https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/imagezoom.min.css)
+15:37:07	Error: 	"Internal Server Error" (500) after 2 retries at link https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/lens.png (from https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/imagezoom.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 minutes 23 seconds : 2640 links scanned, 2504 files written (127672759 bytes overall) [75691131 bytes received at 36689 bytes/sec], 66049307 bytes transferred using HTTP compression in 1345 files, ratio 19%, 1.6 requests per connection
+(4 errors, 260 warnings, 0 messages)
